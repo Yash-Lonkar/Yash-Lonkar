@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br><br>I am Yash Lonkar a Computer Science student passionate in software development. 
+<br><br>I am Yash Lonkar (ヤシュ)  a Computer Science student passionate in software development. 
 
 
 ## 🌐 Socials:
