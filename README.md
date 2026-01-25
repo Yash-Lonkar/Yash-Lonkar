@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there こんにちは 👋
 
 # 💫 About Me:
 <br><br>I am Yash Lonkar (ヤシュ)  a Computer Science student passionate in software development. 
