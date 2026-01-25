@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <br><br>I am Yash Lonkar (ヤシュ)  a Computer Science student passionate in software development. 
-<br)こんにちは、みなさん。
+<br>こんにちは、みなさん。
 わたしはヤシュです。インド人です。
 NAT 3QとJLPT N4に合格しました。
 AIやWeb開発、アプリ開発など、いろいろな技術を使ってプロジェクトを作ることが大好きです。
