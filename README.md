@@ -4,7 +4,7 @@
 <br><br>I am Yash Lonkar (ヤシュ)  a Computer Science student passionate in software development. 
 <br>こんにちは、みなさん。
 わたしはヤシュです。インド人です。
-NAT 3QとJLPT N4に合格しました。
+NAT 3QとJLPT N3に合格しました。
 AIやWeb開発、アプリ開発など、いろいろな技術を使ってプロジェクトを作ることが大好きです。
 
 
@@ -24,13 +24,7 @@ AIやWeb開発、アプリ開発など、いろいろな技術を使ってプロ
 ・自然言語処理（NLP）
 ・クラウド技術
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Yash-Lonkar&theme=dark&hide_border=false&cache_seconds=86400)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Lonkar&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Lonkar&theme=dark&hide_border=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
